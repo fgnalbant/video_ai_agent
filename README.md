@@ -3,7 +3,7 @@
 A Streamlit application that combines video analysis and web search capabilities using Google's Gemini 2.0 model. This agent can analyze uploaded videos and answer questions by combining visual understanding with web-search.
 
 ### How to get Started?
-```
+
 1. Install the required dependencies:
 
 ```bash
